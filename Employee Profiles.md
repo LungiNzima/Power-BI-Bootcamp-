@@ -29,4 +29,43 @@ Step 9: Leave balance analysis ​
 Calculated average leave​: Average Leave Balance = AVERAGE(EmployeeProfiles[Leave Balance])​ Also measured people who have greater than a months leave balance: ​Leave Balance greater than 20 days = CALCULATE([Headcount], EmployeeProfiles[Leave Balance] >20) <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b73dfea2-9a1d-442f-817a-456125297e42" />
 Step 10: Created a dashboard based on the above findings:
 ![Untitled design](https://github.com/user-attachments/assets/ddba4193-a21f-476d-8271-e7f7075a2a4e)
-Credit to the following creator: Chandoo on YT for Tutorial  
+
+Data Insights: 
+
+📊 Workforce Composition
+
+• Headcount: 161 employees — a mid-sized organization.
+
+• Roles: The workforce is spread across diverse functions, with Packaging (22), Production (20), and Research Scientist (20) being the largest groups. This suggests a balance between operational, creative, and analytical roles.
+
+• Gender: 45% male and 55% female.
+
+💰 Compensation & Leave
+
+• Average Salary: $54K - indicates a moderate pay scale, likely reflecting a mix of entry-level and specialized roles.
+
+• Leave Balance: Average of 16.42 days, but 29 employees have more than 20 days. Pointing to a possibility of underutilized leave or longer tenure.
+
+👥 Demographics
+
+• Age Distribution: Most employees are between 20–40 years old, showing a relatively young workforce. Few are above 50, which could mean limited senior-level experience or a focus on early-career talent.
+
+• Qualifications vs Salary: Salaries range from $20K–$90K, with higher qualifications (Master’s, Bachelor’s) generally clustering at the upper end. Diploma and High School graduates appear in lower salary ranges, which aligns with typical market trends.
+
+📈 Growth & Trends
+
+• Hiring: 20 new employees joined in 2023, bringing the total to ~160. Growth has been steady since 2018, suggesting consistent expansion rather than rapid scaling.
+
+🔑 Key Deductions
+• Balanced workforce: gender distribution and role diversity are healthy.
+
+• Young talent pool: majority under 40, which may drive innovation but could lack deep senior expertise.
+
+• Leave accumulation: some employees may not be taking enough time off, which can affect wellbeing.
+
+• Steady growth: hiring is consistent, not explosive, pointing to sustainable expansion.
+
+• Qualification-driven pay: clear link between education level and salary, which could influence recruitment and retention strategies.
+
+
+Credit to the following creator: YT Chandoo  
