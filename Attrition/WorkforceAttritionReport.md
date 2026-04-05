@@ -1,4 +1,4 @@
-This set of data contained various employee data such as age, job role, attrition and job satisfaction rate. Using this data, I took the following steps to create a dashboard and obtain information about the attrition and attrition rate of the workforce. 
+This dataset included key employee information such as age, job role, attrition, and job satisfaction levels. Leveraging this data, I applied a structured process to develop a dashboard that highlights workforce attrition patterns and overall attrition rates. The resulting visualization provides actionable insights into employee turnover and satisfaction trends.
 
 Step 1: Transformed Data by creating column headings.
 ​
